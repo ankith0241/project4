@@ -1,1 +1,2 @@
 registration 1
+registration form duplicate 1
